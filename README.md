@@ -7,4 +7,4 @@ Amazon Price API foi desenvolvida em Django REST Framework com a intenção de a
 Luis Henrique Bueno, [LuisHenrique01](https://github.com/LuisHenrique01).
 
 ## Licença
-[Boost Software License 1.0](https://choosealicense.com/licenses/bsl-1.0/)
+[GNU Lesser General Public License v3.0](https://choosealicense.com/licenses/lgpl-3.0/)
